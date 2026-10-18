@@ -166,7 +166,7 @@ A pasta `dados/` é opcional e deve ser incluída somente se a base puder ser co
 2. Abra o arquivo `index.html` em um navegador.
 3. Utilize os filtros para explorar os dados e visualizar os indicadores.
 
-Caso o projeto esteja publicado no GitHub Pages, acesse a versão online pelo link disponibilizado no repositório.
+Acesse a dashboard pelo GitHub Pages: https://renansnts.github.io/porsche_sales_intelligence/
 
 ## 📈 Aprendizados e competências desenvolvidas
 
